@@ -1,0 +1,88 @@
+ {
+   "projects":  [
+     {
+       "id": 1,
+       "name": "Объект 1",
+       "childrenIds": [2, 3, 5],
+       "children": []
+     },
+     {
+       "id": 9,
+       "name": "Объект 2",
+       "childrenIds": [8, 7, 4],
+       "children": []
+     },
+     {
+       "id": 15,
+       "name": "Объект 3",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 42,
+       "name": "Объект 4",
+       "childrenIds": [10, 14, 19],
+       "children": []
+     },
+     {
+       "id": 2,
+       "name": "Объект 5",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 3,
+       "name": "Объект 6",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 5,
+       "name": "Объект 7",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 8,
+       "name": "Объект 8",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 7,
+       "name": "Объект 9",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 4,
+       "name": "Объект 10",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 10,
+       "name": "Объект 11",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 14,
+       "name": "Объект 12",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 19,
+       "name": "Объект 13",
+       "childrenIds": [],
+       "children": []
+     },
+     {
+       "id": 20,
+       "name": "Объект 14",
+       "childrenIds": [10, 14],
+       "children": []
+     }
+   ]
+ }

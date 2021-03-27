@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Department 1 Level 1",
+    "childrenIds": [2, 3, 5],
+    "children": []
+  },
+  {
+    "id": 9,
+    "name": "Department 2 Level 1",
+    "childrenIds": [8, 7, 4],
+    "children": []
+  },
+  {
+    "id": 15,
+    "name": "Department 3 Level 1",
+    "childrenIds": [],
+    "children": []
+  },
+  {
+    "id": 42,
+    "name": "Department 4 Level 1",
+    "childrenIds": [10, 14, 19],
+    "children": []
+  }
+]

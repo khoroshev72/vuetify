@@ -1,0 +1,56 @@
+[
+  {
+    "id": 2,
+    "name": "Department 5 Level 2",
+    "childrenIds": [],
+    "children": []
+  },
+  {
+    "id": 3,
+    "name": "Department 6 Level 2",
+    "childrenIds": [],
+    "children": []
+  },
+  {
+    "id": 5,
+    "name": "Department 7 Level 2",
+    "childrenIds": [],
+    "children": []
+  },
+  {
+    "id": 8,
+    "name": "Department 8 Level 2",
+    "childrenIds": [],
+    "children": []
+  },
+  {
+    "id": 7,
+    "name": "Department 9 Level 2",
+    "childrenIds": [],
+    "children": []
+  },
+  {
+    "id": 4,
+    "name": "Department 10 Level 2",
+    "childrenIds": [],
+    "children": []
+  },
+  {
+    "id": 10,
+    "name": "Department 11 Level 2",
+    "childrenIds": [],
+    "children": []
+  },
+  {
+    "id": 14,
+    "name": "Department 12 Level 2",
+    "childrenIds": [],
+    "children": []
+  },
+  {
+    "id": 19,
+    "name": "Department 13 Level 2",
+    "childrenIds": [],
+    "children": []
+  }
+]
